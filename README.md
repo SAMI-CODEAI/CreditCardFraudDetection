@@ -6,7 +6,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 ## Dataset
 The dataset used for this project can be accessed via Google Drive at the following link:
 
-[Credit Card Fraud Detection Dataset]([https://drive.google.com/file/d/your-dataset-link-here/view?usp=sharing](https://drive.google.com/file/d/1Y6CniZC3Tsnt1UQTtRSphbI4JMxsWZNG/view?usp=drive_link))
+[Credit Card Fraud Detection Dataset]([https://drive.google.com/file/d/1Y6CniZC3Tsnt1UQTtRSphbI4JMxsWZNG/view?usp=drive_link](https://drive.google.com/file/d/1Y6CniZC3Tsnt1UQTtRSphbI4JMxsWZNG/view?usp=drive_link))
 
 ## Project Structure
 - **CreditCardFraud_Intern.ipynb**: Jupyter notebook containing data preprocessing, analysis, visualization, and machine learning model training.
@@ -66,5 +66,5 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions, feel free to reach out:
 - Email: your-sami.codeai@gmail.com
-- GitHub: [SAMI-CODEAI]([https://github.com/your-github-username](https://github.com/SAMI-CODEAI))
+- GitHub: [SAMI-CODEAI](https://github.com/SAMI-CODEAI)
 
