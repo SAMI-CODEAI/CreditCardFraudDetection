@@ -22,7 +22,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn google-colab
 ## Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-github-username/CreditCardFraudDetection.git
+   git clone https://github.com/SAMI-CODEAI/CreditCardFraudDetection.git
    ```
 2. Navigate to the project directory:
    ```bash
