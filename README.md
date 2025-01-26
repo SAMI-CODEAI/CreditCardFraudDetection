@@ -66,5 +66,5 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions, feel free to reach out:
 - Email: your-sami.codeai@gmail.com
-- GitHub: [your-github-username]([https://github.com/your-github-username](https://github.com/SAMI-CODEAI))
+- GitHub: [SAMI-CODEAI]([https://github.com/your-github-username](https://github.com/SAMI-CODEAI))
 
